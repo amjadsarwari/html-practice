@@ -1,0 +1,10 @@
+thead {
+    background-color: rgb(255, 239, 11);
+    font-family: 'Courier New', Courier, monospace;
+}
+tbody {
+    background-color: rgb(62, 224, 230);
+}
+tfoot {
+    background-color: rgb(101, 241, 101);
+}
